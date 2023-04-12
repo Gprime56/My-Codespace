@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="image_2023-04-12_122125090.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Gadiel Avalos <span className="heart">♥️</span> React
         </p>
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
@@ -18,7 +18,7 @@ function App() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn Nothing, lol
           </a>
         </p>
       </header>
